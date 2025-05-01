@@ -1,0 +1,14 @@
+C:\Users\italo\programando\backend\GymStats\bin\Debug\net8.0\GymStats.exe
+C:\Users\italo\programando\backend\GymStats\bin\Debug\net8.0\GymStats.deps.json
+C:\Users\italo\programando\backend\GymStats\bin\Debug\net8.0\GymStats.runtimeconfig.json
+C:\Users\italo\programando\backend\GymStats\bin\Debug\net8.0\GymStats.dll
+C:\Users\italo\programando\backend\GymStats\bin\Debug\net8.0\GymStats.pdb
+C:\Users\italo\programando\backend\GymStats\obj\Debug\net8.0\GymStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\programando\backend\GymStats\obj\Debug\net8.0\GymStats.AssemblyInfoInputs.cache
+C:\Users\italo\programando\backend\GymStats\obj\Debug\net8.0\GymStats.AssemblyInfo.cs
+C:\Users\italo\programando\backend\GymStats\obj\Debug\net8.0\GymStats.csproj.CoreCompileInputs.cache
+C:\Users\italo\programando\backend\GymStats\obj\Debug\net8.0\GymStats.dll
+C:\Users\italo\programando\backend\GymStats\obj\Debug\net8.0\refint\GymStats.dll
+C:\Users\italo\programando\backend\GymStats\obj\Debug\net8.0\GymStats.pdb
+C:\Users\italo\programando\backend\GymStats\obj\Debug\net8.0\GymStats.genruntimeconfig.cache
+C:\Users\italo\programando\backend\GymStats\obj\Debug\net8.0\ref\GymStats.dll
